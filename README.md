@@ -34,12 +34,6 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
 </p>  
 
-### 📈 GitHub Insights  
-
-![Nivetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DNivetha&show_icons=true&theme=radical)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DNivetha&bg_color=1e1e1e&color=f8f8f8&line=ff7700&point=f2f2f2&area=true)  
-
 ---
 
 ### 🌱 Let's Connect!  
