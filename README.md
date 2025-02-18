@@ -35,7 +35,8 @@
 </p>  
 
 ---
-### fact:I Know intermediate Editing 
+### Fact:I Know intermediate Editing 
+---
 ### 🌱 Let's Connect!  
 
 - **LinkedIn**: [Nivetha Durairaj](https://www.linkedin.com/in/nivetha-durairaj-8709b628a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
