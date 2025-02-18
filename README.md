@@ -1,4 +1,4 @@
-## Hi There! 🌍 I'm Nivetha   
+## Hi There!  I'm Nivetha   
 
 **Pursuing CSE with a Specialization in AI & ML @ VISTAS**  
 
