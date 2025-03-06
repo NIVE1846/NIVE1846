@@ -37,6 +37,9 @@
 ---
 ### Fact:I Know intermediate Editing 
 ---
+### 🔥 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/NivethaDurairaj?theme=dark&font=ABeeZee)  
+---
 ### 🌱 Let's Connect!  
 
 - **LinkedIn**: [Nivetha Durairaj](https://www.linkedin.com/in/nivetha-durairaj-8709b628a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
